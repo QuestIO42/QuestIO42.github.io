@@ -21,3 +21,4 @@
 
 - Estudande de Ciência da Computação na UFSCar e desenvolvedor full-stack que acaba fazendo desde design até analise de dados.
 - Área do Projeto: **Tech Lead**
+---
