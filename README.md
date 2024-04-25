@@ -23,3 +23,16 @@
 - Estudande de Ciência da Computação na UFSCar e desenvolvedor full-stack que acaba fazendo desde design até analise de dados.
 - Área do Projeto: **Tech Lead**
 ---
+
+## Eduardo H Spinelli
+
+<img src="https://github.com/Edu-Spinelli.png" alt="img" style="border-radius: 50%; width: 200px; heigh: 200px;">
+
+
+[Linkedin](www.linkedin.com/in/eduardo-spinelli-a309011a1) |
+[Github](https://github.com/Edu-Spinelli) |
+[Instagram](https://www.instagram.com/edu_spinelli/) 
+
+- Sou estudante de Ciência da computação na UFSCar, estudando sobre desenvolvimento web e entusiasta na área de sec info (crypto)
+- Área do Projeto: Back-end, Front-end, DevOps
+---
