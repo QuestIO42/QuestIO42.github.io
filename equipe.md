@@ -1,9 +1,11 @@
 ---
 layout: default
+title: Equipe
+permalink: /equipe/
 ---
 
 # Equipe
-<!- Em ordem alfabética >
+<!-- Em ordem alfabética -->
 ## Eduardo H Spinelli
 
 <img src="https://github.com/Edu-Spinelli.png" alt="img" style="border-radius: 50%; width: 200px; heigh: 200px;">
