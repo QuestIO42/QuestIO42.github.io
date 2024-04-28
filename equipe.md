@@ -31,6 +31,18 @@ permalink: /equipe/
 - Área do Projeto: Back-end, Front-end, DevOps
 ---
 
+## Gustavo Gimenes
+
+<img src="https://github.com/guugimeness.png" alt="img" style="border-radius: 50%; width: 200px; heigh: 200px;">
+
+[Linkedin](www.linkedin.com/in/gustavogimenes) |
+[GitHub](https://github.com/guugimeness) |
+[Instagram](https://www.instagram.com/guu.gimeness/) 
+
+- Sou estudante da Engenharia de Computação UFSCar 023, estou estudando Python e Docker, mas também curto muito C++.
+- Área do Projeto: Back-end | DevOps
+---
+
 ## Marlon H Sanches (@MarlonHenq)
 
 <img src="https://github.com/MarlonHenq.png" alt="Imagem" style="border-radius: 50%; width: 200px; height: 200px;">
