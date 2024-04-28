@@ -58,7 +58,7 @@ permalink: /equipe/
 ## Murilo Ramos
 <img src="https://github.com/MuriEdu.png" alt="Imagem" style="border-radius: 50%; width: 200px; height: 200px;">
 
-[linkedin](https://www.linkedin.com/in/muriedu) |
+[Linkedin](https://www.linkedin.com/in/muriedu) |
 [GitHub](https://github.com/MuriEdu)
 
 - Bio: Sou Murilo Ramos, estudande de BCC 023, tenho experiência tanto em front-end (React e ReactNative) quanto em back-end (Spring)
