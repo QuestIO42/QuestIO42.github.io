@@ -35,7 +35,7 @@ permalink: /equipe/
 
 <img src="https://github.com/guugimeness.png" alt="img" style="border-radius: 50%; width: 200px; heigh: 200px;">
 
-[Linkedin](www.linkedin.com/in/gustavogimenes) |
+[Linkedin](https://www.linkedin.com/in/gustavogimenes/) |
 [GitHub](https://github.com/guugimeness) |
 [Instagram](https://www.instagram.com/guu.gimeness/) 
 
@@ -58,7 +58,7 @@ permalink: /equipe/
 ## Murilo Ramos
 <img src="https://github.com/MuriEdu.png" alt="Imagem" style="border-radius: 50%; width: 200px; height: 200px;">
 
-[linkedin](https://www.linkedin.com/in/muriedu) |
+[Linkedin](https://www.linkedin.com/in/muriedu) |
 [GitHub](https://github.com/MuriEdu)
 
 - Bio: Sou Murilo Ramos, estudande de BCC 023, tenho experiência tanto em front-end (React e ReactNative) quanto em back-end (Spring)
