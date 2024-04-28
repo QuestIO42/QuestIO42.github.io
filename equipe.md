@@ -35,7 +35,7 @@ permalink: /equipe/
 
 <img src="https://github.com/guugimeness.png" alt="img" style="border-radius: 50%; width: 200px; heigh: 200px;">
 
-[Linkedin](www.linkedin.com/in/gustavogimenes) |
+[Linkedin](https://www.linkedin.com/in/gustavogimenes/) |
 [GitHub](https://github.com/guugimeness) |
 [Instagram](https://www.instagram.com/guu.gimeness/) 
 
