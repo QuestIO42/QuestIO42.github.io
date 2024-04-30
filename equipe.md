@@ -31,6 +31,18 @@ permalink: /equipe/
 - Área do Projeto: Back-end, Front-end, DevOps
 ---
 
+## Enzo Y Hirotani
+
+<img src="https://github.com/EnzoHirotani.png" alt="img" style="border-radius: 50%; width: 200px; heigh: 200px;">
+
+[Linkedin](https://www.linkedin.com/in/enzo-hirotani-730a74245/) |
+[GitHub](https://github.com/EnzoHirotani) |
+[Instagram](https://www.instagram.com/enzohirotani/) 
+
+- Sou estudante de Ciência da computação na UFSCar 023 e estou estudando desenvolvimento web, python e um pouco de java.
+- Área do Projeto: Back-end | Front-end
+---
+
 ## Gustavo Gimenes
 
 <img src="https://github.com/guugimeness.png" alt="img" style="border-radius: 50%; width: 200px; heigh: 200px;">
