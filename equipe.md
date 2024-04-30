@@ -31,7 +31,7 @@ permalink: /equipe/
 - Área do Projeto: Back-end, Front-end, DevOps
 ---
 
-## Enzo Y Hirotani
+## Enzo Hirotani
 
 <img src="https://github.com/EnzoHirotani.png" alt="img" style="border-radius: 50%; width: 200px; heigh: 200px;">
 
