@@ -95,4 +95,14 @@ Sou Murilo Ramos, estudande de BCC 023, tenho experiência tanto em front-end (R
 Área do Projeto: Front-end
 ---
 
+## Nicole Ramos
 
+<img src="https://github.com/Ninn-up.png" alt="Nicole Ramos" class="profile_pic">
+
+[Linkedin](www.linkedin.com/in/nicole-correa-ramos) |
+[GitHub](https://github.com/Ninn-up)
+
+Sou estudante de Engenharia da Computação na UFSCar e tenho experiência com design, prototipação e UI/UX. Busco aprender mais sobre as diversas áreas da computação, entre elas, desenvolvimento web.
+
+Área do Projeto: Design, Front-End
+---
