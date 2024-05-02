@@ -109,7 +109,7 @@ Sou estudante de Engenharia da Computação na UFSCar e tenho experiência com d
 
 ## Vitor Taichi Taira
 
-<img src = "https://github.com/TaiFile.png" alt ="Vitor Taichi Taira" class= "profle_pic">
+<img src = "https://github.com/TaiFile.png" alt ="Vitor Taichi Taira" class= "profile_pic">
 
 [Linkedin](https://www.linkedin.com/in/vitor-taichi-taira-02416b259/) |
 [GitHub](https://github.com/TaiFile)
