@@ -71,6 +71,19 @@ Sou estudante da Engenharia de Computação UFSCar 023, estou estudando Python e
 - Área do Projeto: Back-end, DevOps
 ---
 
+## José Maia de Oliveira (@josemaia.comp)
+
+<img src="https://github.com/decker12w.png" alt="José Maia de Oliveira" class="profile_pic">
+
+[Linkedin](https://www.linkedin.com/in/jos%C3%A9-maia-1b28711b4/) |
+[GitHub](https://github.com/decker12w) |
+[Site](https://portifolio-next-dt46sml8y-decker12ws-projects.vercel.app/)
+
+Sou estudante de Ciência da Computação na UFSCar e tenho experiência com desenvolvimento web. No front-end, trabalho principalmente com React e Next.js, e no back-end, utilizo Node.js e Spring Boot. Também possuo conhecimentos básicos em DevOps e tenho uma forte afinidade com sistemas Linux.
+
+Área do Projeto: Back-end, DevOops
+---
+
 ## Marlon H Sanches (@MarlonHenq)
 
 <img src="https://github.com/MarlonHenq.png" alt="Marlon H Sanches" class="profile_pic">
