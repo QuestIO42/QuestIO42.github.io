@@ -92,7 +92,7 @@ Sou estudante de Ciência da Computação na UFSCar e tenho experiência com des
 [GitHub](https://github.com/MarlonHenq) |
 [Site](https://marlonhenq.dev)
 
-Estudande de Ciência da Computação na UFSCar e desenvolvedor full-stack que acaba fazendo desde design até analise de dados.
+Estudante de Ciência da Computação na UFSCar e desenvolvedor full-stack que acaba fazendo desde design até analise de dados.
 
 Área do Projeto: Tech Lead
 ---
@@ -103,7 +103,7 @@ Estudande de Ciência da Computação na UFSCar e desenvolvedor full-stack que a
 [Linkedin](https://www.linkedin.com/in/muriedu) |
 [GitHub](https://github.com/MuriEdu)
 
-Sou Murilo Ramos, estudande de BCC 023, tenho experiência tanto em front-end (React e ReactNative) quanto em back-end (Spring)
+Sou Murilo Ramos, estudante de BCC 023, tenho experiência tanto em front-end (React e ReactNative) quanto em back-end (Spring)
 
 Área do Projeto: Front-end
 ---
@@ -118,6 +118,18 @@ Sou Murilo Ramos, estudande de BCC 023, tenho experiência tanto em front-end (R
 Sou estudante de Engenharia da Computação na UFSCar e tenho experiência com design, prototipação e UI/UX. Busco aprender mais sobre as diversas áreas da computação, entre elas, desenvolvimento web.
 
 Área do Projeto: Design, Front-End
+---
+
+## Ronan Pereira
+<img src="https://media.licdn.com/dms/image/D4E03AQFw22wPH4Y0zw/profile-displayphoto-shrink_200_200/0/1713492101718?e=1720051200&v=beta&t=L5Sw4rre_3K_FjVzC8JYArLJjsnrikllYfnsGP7798A" alt="Ronan Pereira" class="profile_pic">
+
+[Linkedin](www.linkedin.com/in/ronan-antonio-pereira-junior-92165b2b1) |
+[GitHub](https://github.com/ronanpjr)
+
+
+Sou estudante de Ciência da Computação na UFSCar e tenho experiência com Linux e desenvolvimento C#. Tenho interesse desde o baixo nível até coisas como design patterns.
+
+Área do Projeto: DevOps
 ---
 
 ## Vitor Taichi Taira
