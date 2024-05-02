@@ -81,7 +81,7 @@ Sou estudante da Engenharia de Computação UFSCar 023, estou estudando Python e
 
 Sou estudante de Ciência da Computação na UFSCar e tenho experiência com desenvolvimento web. No front-end, trabalho principalmente com React e Next.js, e no back-end, utilizo Node.js e Spring Boot. Também possuo conhecimentos básicos em DevOps e tenho uma forte afinidade com sistemas Linux.
 
-Área do Projeto: Back-end, DevOops
+Área do Projeto: Back-end, DevOps
 ---
 
 ## Marlon H Sanches (@MarlonHenq)
