@@ -106,3 +106,15 @@ Sou estudante de Engenharia da Computação na UFSCar e tenho experiência com d
 
 Área do Projeto: Design, Front-End
 ---
+
+## Vitor Taichi Taira
+
+<img src = "https://github.com/TaiFile.png" alt ="Vitor Taichi Taira" class= "profile_pic">
+
+[Linkedin](https://www.linkedin.com/in/vitor-taichi-taira-02416b259/) |
+[GitHub](https://github.com/TaiFile)
+
+Sou Vitor Taichi Taira, faço Ciência da Computação 023 na UFSCar e tenho um pouco de conhecimento em C e C++. Quero expandir meus horizontes para o desenvolvimento web e poder aprender outras tecnologias na área de programação.
+
+Área do Projeto: Back-End, DevOps
+---
