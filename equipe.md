@@ -98,7 +98,7 @@ Estudante de Ciência da Computação na UFSCar e desenvolvedor full-stack que a
 ---
 
 ## Maykon dos Santos (@sgmaykon)
-<img src="https://github.com/sgmaykon.png>" alt="Maykon dos Santos" class="profile-pic">
+<img src="https://github.com/sgmaykon.png" alt="Maykon dos Santos" class="profile-pic">
 
 [GitHub] (https://github.com/sgmaykon)
 
