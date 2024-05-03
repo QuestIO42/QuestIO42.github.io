@@ -98,7 +98,7 @@ Estudante de Ciência da Computação na UFSCar e desenvolvedor full-stack que a
 ---
 
 ## Melissa Shimada
-<img src=https://github.com/MelShimada.png alt="Melissa Shimada" 
+<img src="https://github.com/MelShimada.png" alt="Melissa Shimada" 
 class="profile_pic">
 
 [Linkedin](https://www.linkedin.com/in/melissa-shimada) |
