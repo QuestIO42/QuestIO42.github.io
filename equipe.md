@@ -42,6 +42,7 @@ Sou estudante de Ciência da computação na UFSCar, com conhecimentos em C e C+
 
 ### Área no projeto: Front-end, Desing
 
+
 ## Eduardo H Spinelli
 
 <img src="https://github.com/Edu-Spinelli.png" alt="img" class="profile_pic">
@@ -53,6 +54,7 @@ Sou estudante de Ciência da computação na UFSCar, com conhecimentos em C e C+
 Sou estudante de Ciência da computação na UFSCar, estudando sobre desenvolvimento web e entusiasta na área de sec info (crypto)
 
 ### Área no projeto: Back-end, Front-end, DevOps
+
 
 ## Enzo Hirotani
 
@@ -66,6 +68,7 @@ Sou estudante de Ciência da computação na UFSCar 023 e estou estudando desenv
 
 ### Área no projeto: Back-end, Front-end
 
+
 ## Gustavo Gimenes
 
 <img src="https://github.com/guugimeness.png" alt="Gustavo Gimenes" class="profile_pic">
@@ -77,6 +80,19 @@ Sou estudante de Ciência da computação na UFSCar 023 e estou estudando desenv
 Sou estudante da Engenharia de Computação UFSCar 023, estou estudando Python e Docker, mas também curto muito C++.
 
 ### Área no projeto: Back-end, DevOps
+
+
+## Gustavo Kim Alcantara
+
+<img src = "https://github.com/gus-kim.png" alt ="Gustavo Kim" class= "profile_pic">
+
+[Linkedin](https://www.linkedin.com/in/gustavo-kim-alcantara-869132215/) |
+[GitHub](https://github.com/gus-kim)
+
+Sou Gustavo Kim, estudante de ciências da computação na UFSCar. Tenho conhecimento em C, C++ e estou me aprofundando em Python.
+
+### Área no projeto: Back-End
+
 
 ## José Maia de Oliveira (@josemaia.comp)
 
@@ -90,6 +106,7 @@ Sou estudante de Ciência da Computação na UFSCar e tenho experiência com des
 
 ### Área no projeto: Back-end, DevOps
 
+
 ## Marlon H Sanches (@MarlonHenq)
 
 <img src="https://github.com/MarlonHenq.png" alt="Marlon H Sanches" class="profile_pic">
@@ -102,14 +119,16 @@ Estudante de Ciência da Computação na UFSCar e desenvolvedor full-stack que a
 
 ### Área no projeto: Tech Lead
 
+
 ## Maykon dos Santos (@sgmaykon)
 <img src="https://github.com/sgmaykon.png" alt="Maykon dos Santos" class="profile_pic">
 
-[GitHub] (https://github.com/sgmaykon)
+[GitHub](https://github.com/sgmaykon)
 
 Sou estudante de Engenharia de Computação na UFSCar, com conhecimentos em C e C++. Atualmente estou aprendendo ReactJS, Docker e um pouco de python.
 
 ### Área no projeto: Front-End | Back-End | Dev-Ops
+
 
 ## Melissa Shimada
 <img src="https://github.com/MelShimada.png" alt="Melissa Shimada" class="profile_pic">
@@ -121,6 +140,7 @@ Sou Melissa Shimada, estudante de Ciência da Computação na UFSCar e estou est
 
 ### Área no projeto: Front-end
 
+
 ## Murilo Ramos
 <img src="https://github.com/MuriEdu.png" alt="Murilo Ramos" class="profile_pic">
 
@@ -130,6 +150,7 @@ Sou Melissa Shimada, estudante de Ciência da Computação na UFSCar e estou est
 Sou Murilo Ramos, estudante de BCC 023, tenho experiência tanto em front-end (React e ReactNative) quanto em back-end (Spring)
 
 ### Área no projeto: Front-end
+
 
 ## Nicolas Queiroz Bertozzo
 
@@ -143,6 +164,7 @@ Sou estudante de Engenharia da Computação na UFSCar. Busco entender os funcion
 
 ### Área no projeto: Backend?
 
+
 ## Nicole Ramos
 
 <img src="https://github.com/Ninn-up.png" alt="Nicole Ramos" class="profile_pic">
@@ -152,8 +174,8 @@ Sou estudante de Engenharia da Computação na UFSCar. Busco entender os funcion
 
 Sou estudante de Engenharia da Computação na UFSCar e tenho experiência com design, prototipação e UI/UX. Busco aprender mais sobre as diversas áreas da computação, entre elas, desenvolvimento web.
 
-Área do Projeto: Design, Front-End
----
+### Área no projeto: Design, Front-End
+
 
 ## Renan Alves Zago
 <img src="https://media.licdn.com/dms/image/D4D03AQFki7mRLtcU5w/profile-displayphoto-shrink_200_200/0/1709342969134?e=1720051200&v=beta&t=j2C_F-aHd-j-kXje3YMvrOqLNx8qPrnDi0sIH5875lM" alt="Renan Zago" class="profile_pic">
@@ -163,8 +185,9 @@ Sou estudante de Engenharia da Computação na UFSCar e tenho experiência com d
 
 Sou Renan Zago, estudante de Ciência da Computação 023 na UFSCar, tenho experiência em mobile com Flutter e conhecimento em front-end web. Procurando sempre aprender.
 
-Área do Projeto: Back-End, Front-End
----
+### Área no projeto: Back-End, Front-End
+
+
 ## Ronan Pereira
 <img src="https://media.licdn.com/dms/image/D4E03AQFw22wPH4Y0zw/profile-displayphoto-shrink_200_200/0/1713492101718?e=1720051200&v=beta&t=L5Sw4rre_3K_FjVzC8JYArLJjsnrikllYfnsGP7798A" alt="Ronan Pereira" class="profile_pic">
 
@@ -174,6 +197,7 @@ Sou Renan Zago, estudante de Ciência da Computação 023 na UFSCar, tenho exper
 Sou estudante de Ciência da Computação na UFSCar e tenho experiência com Linux e desenvolvimento C#. Tenho interesse desde o baixo nível até coisas como design patterns.
 
 ### Área no projeto: DevOps
+
 
 ## Vitor Taichi Taira
 
@@ -186,6 +210,7 @@ Sou Vitor Taichi Taira, faço Ciência da Computação 023 na UFSCar e tenho um 
 
 ### Área no projeto: Back-End, DevOps
 
+
 ## Vitória Hilgert Tomasel
 
 <img src = "https://github.com/vitoriahilgert.png" alt ="Vitória Hilgert" class= "profile_pic">
@@ -196,14 +221,3 @@ Sou Vitor Taichi Taira, faço Ciência da Computação 023 na UFSCar e tenho um 
 Sou estudante de Ciência da Computação na UFSCar, tenho um pouco de experiência com Python, SQL e front-end e busco expandir meus conhecimentos em desenvolvimento web.
 
 ### Área no projeto: Back-End, Front-End
-
-## Gustavo Kim Alcantara
-
-<img src = "https://github.com/gus-kim.png" alt ="Gustavo Kim" class= "profile_pic">
-
-[Linkedin](https://www.linkedin.com/in/gustavo-kim-alcantara-869132215/) |
-[GitHub](https://github.com/gus-kim)
-
-Sou Gustavo Kim, estudante de ciências da computação na UFSCar. Tenho conhecimento em C, C++ e estou me aprofundando em Python.
-
-### Área no projeto: Back-End
