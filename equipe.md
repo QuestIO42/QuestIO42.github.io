@@ -97,8 +97,18 @@ Estudante de Ciência da Computação na UFSCar e desenvolvedor full-stack que a
 Área do Projeto: Tech Lead
 ---
 
+## Maykon dos Santos (@sgmaykon)
+<img src="https://github.com/sgmaykon.png>" alt="Maykon dos Santos" class="profile-pic">
+
+[GitHub] (https://github.com/sgmaykon)
+
+Sou estudante de Engenharia de Computação na UFSCar, com conhecimentos em C e C++. Atualmente estou aprendendo ReactJS, Docker e um pouco de python.
+
+Área do projeto: Front-End | Back-End | Dev-Ops
+---
+
 ## Melissa Shimada
-<img src=https://github.com/MelShimada.png alt="Melissa Shimada" 
+<img src="https://github.com/MelShimada.png" alt="Melissa Shimada" 
 class="profile_pic">
 
 [Linkedin](https://www.linkedin.com/in/melissa-shimada) |
@@ -179,4 +189,16 @@ Sou Vitor Taichi Taira, faço Ciência da Computação 023 na UFSCar e tenho um 
 Sou estudante de Ciência da Computação na UFSCar, tenho um pouco de experiência com Python, SQL e front-end e busco expandir meus conhecimentos em desenvolvimento web.
 
 Área do Projeto: Back-End, Front-End
+---
+
+## Gustavo Kim Alcantara
+
+<img src = "https://github.com/gus-kim.png" alt ="Gustavo Kim" class= "profile_pic">
+
+[Linkedin](https://www.linkedin.com/in/gustavo-kim-alcantara-869132215/) |
+[GitHub](https://github.com/gus-kim)
+
+Sou Gustavo Kim, estudante de ciências da computação na UFSCar. Tenho conhecimento em C, C++ e estou me aprofundando em Python.
+
+Área do Projeto: Back-End
 ---
