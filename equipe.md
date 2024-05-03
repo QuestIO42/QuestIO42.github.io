@@ -152,8 +152,19 @@ Sou estudante de Engenharia da Computação na UFSCar. Busco entender os funcion
 
 Sou estudante de Engenharia da Computação na UFSCar e tenho experiência com design, prototipação e UI/UX. Busco aprender mais sobre as diversas áreas da computação, entre elas, desenvolvimento web.
 
-### Área no projeto: Design, Front-End
+Área do Projeto: Design, Front-End
+---
 
+## Renan Alves Zago
+<img src="https://media.licdn.com/dms/image/D4D03AQFki7mRLtcU5w/profile-displayphoto-shrink_200_200/0/1709342969134?e=1720051200&v=beta&t=j2C_F-aHd-j-kXje3YMvrOqLNx8qPrnDi0sIH5875lM" alt="Renan Zago" class="profile_pic">
+
+[Linkedin](https://www.linkedin.com/in/renan-zago/) |
+[GitHub](https://github.com/RenanZago)
+
+Sou Renan Zago, estudante de Ciência da Computação 023 na UFSCar, tenho experiência em mobile com Flutter e conhecimento em front-end web. Procurando sempre aprender.
+
+Área do Projeto: Back-End, Front-End
+---
 ## Ronan Pereira
 <img src="https://media.licdn.com/dms/image/D4E03AQFw22wPH4Y0zw/profile-displayphoto-shrink_200_200/0/1713492101718?e=1720051200&v=beta&t=L5Sw4rre_3K_FjVzC8JYArLJjsnrikllYfnsGP7798A" alt="Ronan Pereira" class="profile_pic">
 
