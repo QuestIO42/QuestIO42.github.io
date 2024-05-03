@@ -97,6 +97,16 @@ Estudante de Ciência da Computação na UFSCar e desenvolvedor full-stack que a
 Área do Projeto: Tech Lead
 ---
 
+## Maykon dos Santos (@sgmaykon)
+<img src="https://github.com/sgmaykon.png>" alt="Maykon dos Santos" class="profile-pic">
+
+[GitHub] (https://github.com/sgmaykon)
+
+Sou estudante de Engenharia de Computação na UFSCar, com conhecimentos em C e C++. Atualmente estou aprendendo ReactJS, Docker e um pouco de python.
+
+Área do projeto: Front-End | Back-End | Dev-Ops
+---
+
 ## Melissa Shimada
 <img src=https://github.com/MelShimada.png alt="Melissa Shimada" 
 class="profile_pic">
