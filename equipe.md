@@ -31,6 +31,17 @@ Professor Associado no Departamento de Computação da Universidade Federal de S
 ### Área no projeto: Coordenador, DevOps
 
 <!-- Em ordem alfabética -->
+## Diogo Conforti Vaz Bellini
+
+<img src="https://media.licdn.com/dms/image/D4D03AQFqTjZDru-2ng/profile-displayphoto-shrink_400_400/0/1683037664462?e=1720051200&v=beta&t=9QP48sHGY2X756VPhsBqIrYgPJDZmc1wwhoTbub5Ols" alt="Diogo Bellini" class="profile_pic">
+
+[Linkedin](https://www.linkedin.com/in/diogo-conforti-vaz-bellini-a993b326b/) |
+[GitHub](https://github.com/Diogo-Bellini) 
+
+Sou estudante de Ciência da computação na UFSCar, com conhecimentos em C e C++. No momento estou entrando no mundo Front-end!!
+
+### Área no projeto: Front-end, Desing
+
 ## Eduardo H Spinelli
 
 <img src="https://github.com/Edu-Spinelli.png" alt="img" class="profile_pic">
