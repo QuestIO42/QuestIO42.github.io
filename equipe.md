@@ -143,3 +143,15 @@ Sou Vitor Taichi Taira, faço Ciência da Computação 023 na UFSCar e tenho um 
 
 Área do Projeto: Back-End, DevOps
 ---
+
+## Vitória Hilgert Tomasel
+
+<img src = "https://github.com/vitoriahilgert.png" alt ="Vitória Hilgert" class= "profile_pic">
+
+[Linkedin](https://www.linkedin.com/in/vit%C3%B3ria-hilgert-2a8867307/) |
+[GitHub](https://github.com/vitoriahilgert)
+
+Sou estudante de Ciência da Computação na UFSCar, tenho um pouco de experiência com Python, SQL e front-end e busco expandir meus conhecimentos em desenvolvimento web.
+
+Área do Projeto: Back-End, Front-End
+---
