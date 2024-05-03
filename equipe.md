@@ -97,18 +97,6 @@ Estudante de Ciência da Computação na UFSCar e desenvolvedor full-stack que a
 Área do Projeto: Tech Lead
 ---
 
-## Melissa Shimada
-<img src=https://github.com/MelShimada.png alt="Melissa Shimada" 
-class="profile_pic">
-
-[Linkedin](https://www.linkedin.com/in/melissa-shimada) |
-[GitHub](https://github.com/MelShimada) 
-
-Sou Melissa Shimada, estudante de Ciência da Computação na UFSCar e estou estudando Javascript e HTML 
-
-Área do Projeto: Front-end
----
-
 ## Murilo Ramos
 <img src="https://github.com/MuriEdu.png" alt="Murilo Ramos" class="profile_pic">
 
