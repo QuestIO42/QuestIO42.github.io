@@ -167,3 +167,15 @@ Sou estudante de Ciência da Computação na UFSCar, tenho um pouco de experiên
 
 Área do Projeto: Back-End, Front-End
 ---
+
+## Gustavo Kim Alcantara
+
+<img src = "https://github.com/gus-kim.png" alt ="Gustavo Kim" class= "profile_pic">
+
+[Linkedin](https://www.linkedin.com/in/gustavo-kim-alcantara-869132215/) |
+[GitHub](https://github.com/gus-kim)
+
+Sou Gustavo Kim, estudante de ciências da computação na UFSCar. Tenho conhecimento em C, C++ e estou me aprofundando em Python.
+
+Área do Projeto: Back-End
+---
