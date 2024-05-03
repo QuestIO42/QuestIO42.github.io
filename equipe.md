@@ -130,6 +130,19 @@ Sou Murilo Ramos, estudante de BCC 023, tenho experiência tanto em front-end (R
 Área do Projeto: Front-end
 ---
 
+## Nicolas Queiroz Bertozzo
+
+<img src="https://github.com/n-qber.png" alt="Nicolas Queiroz Bertozzo" class="profile_pic">
+
+[Linkedin](https://br.linkedin.com/in/nqber) |
+[GitHub](https://github.com/n-qber) | 
+[nqber.ddns.net](http://nqber.ddns.net)
+
+Sou estudante de Engenharia da Computação na UFSCar. Busco entender os funcionamentos por trás dos computadores e sou fã de ensinar tudo aquilo que aprendo nessa busca. Tenho um site de transferência de arquivos ilimitados ;)
+
+Área do Projeto: Backend?
+---
+
 ## Nicole Ramos
 
 <img src="https://github.com/Ninn-up.png" alt="Nicole Ramos" class="profile_pic">
