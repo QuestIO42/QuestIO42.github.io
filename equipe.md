@@ -94,6 +94,19 @@ Sou Gustavo Kim, estudante de ciências da computação na UFSCar. Tenho conheci
 ### Área no projeto: Back-End
 
 
+## João Paulo Morais Rangel
+
+<img src="https://github.com/jpmrangel.png" alt="João Paulo Rangel" class="profile_pic">
+
+[Linkedin](www.linkedin.com/in/joaopaulo-rangel) |
+[GitHub](https://github.com/jpmrangel) |
+[Instagram](https://www.instagram.com/jpmrangel/)
+
+Sou estudante de Ciência da Computação na UFSCar com experiência em desenvolvimento web. Tenho conhecimento em C, C++, java e iniciante em python.
+
+### Área no projeto: Back-end, Front-end
+
+
 ## José Maia de Oliveira (@josemaia.comp)
 
 <img src="https://github.com/decker12w.png" alt="José Maia de Oliveira" class="profile_pic">
