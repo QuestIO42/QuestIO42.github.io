@@ -64,7 +64,7 @@ Sou estudante de Ciência da computação na UFSCar, estudando sobre desenvolvim
 [GitHub](https://github.com/EnzoHirotani) |
 [Instagram](https://www.instagram.com/enzohirotani/) 
 
-Sou estudante de Ciência da computação na UFSCar 023 e estou estudando desenvolvimento web, python e um pouco de java.
+Sou estudante de Ciência da computação na UFSCar 023 e estou estudando desenvolvimento web, Python e um pouco de Java.
 
 ### Área no projeto: Back-end, Front-end
 
@@ -102,7 +102,7 @@ Sou Gustavo Kim, estudante de ciências da computação na UFSCar. Tenho conheci
 [GitHub](https://github.com/jpmrangel) |
 [Instagram](https://www.instagram.com/jpmrangel/)
 
-Sou estudante de Ciência da Computação na UFSCar com experiência em desenvolvimento web. Tenho conhecimento em C, C++, java e iniciante em python.
+Sou estudante de Ciência da Computação na UFSCar com experiência em desenvolvimento web. Tenho conhecimento em C, C++, Java e iniciante em Python.
 
 ### Área no projeto: Back-end, Front-end
 
@@ -138,7 +138,7 @@ Estudante de Ciência da Computação na UFSCar e desenvolvedor full-stack que a
 
 [GitHub](https://github.com/sgmaykon)
 
-Sou estudante de Engenharia de Computação na UFSCar, com conhecimentos em C e C++. Atualmente estou aprendendo ReactJS, Docker e um pouco de python.
+Sou estudante de Engenharia de Computação na UFSCar, com conhecimentos em C e C++. Atualmente estou aprendendo ReactJS, Docker e um pouco de Python.
 
 ### Área no projeto: Front-End | Back-End | Dev-Ops
 
@@ -167,7 +167,7 @@ Sou Murilo Ramos, estudante de BCC 023, tenho experiência tanto em front-end (R
 
 ## Nicolas Queiroz Bertozzo
 
-<img src="https://github.com/n-qber.png" alt="Nicolas Queiroz Bertozzo" class="profile_pic">
+<img src="https://media.licdn.com/dms/image/D4D03AQHBldM4izq1Kw/profile-displayphoto-shrink_800_800/0/1695655712466?e=1720656000&v=beta&t=r38Aziz4yFDFYq9SjJPHBmMvT2VqqLGnQUArrzx3Rbk" alt="Nicolas Queiroz Bertozzo" class="profile_pic">
 
 [Linkedin](https://br.linkedin.com/in/nqber) |
 [GitHub](https://github.com/n-qber) | 
