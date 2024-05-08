@@ -167,7 +167,7 @@ Sou Murilo Ramos, estudante de BCC 023, tenho experiência tanto em front-end (R
 
 ## Nicolas Queiroz Bertozzo
 
-<img src="https://media.licdn.com/dms/image/D4D03AQHBldM4izq1Kw/profile-displayphoto-shrink_800_800/0/1695655712466?e=1720656000&v=beta&t=r38Aziz4yFDFYq9SjJPHBmMvT2VqqLGnQUArrzx3Rbk" alt="Nicolas Queiroz Bertozzo" class="profile_pic">
+<img src="https://media.licdn.com/dms/image/D4D03AQHTUQotDaGUFg/profile-displayphoto-shrink_400_400/0/1715125722023?e=1720656000&v=beta&t=7B-1yW5eD3LGTs6L1XXNX5XUCxc42l1TjBGCnaJrv-Q" alt="Nicolas Queiroz Bertozzo" class="profile_pic">
 
 [Linkedin](https://br.linkedin.com/in/nqber) |
 [GitHub](https://github.com/n-qber) | 
