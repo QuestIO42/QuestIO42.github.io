@@ -120,19 +120,6 @@ Sou estudante de Ciência da Computação na UFSCar e tenho experiência com des
 ### Área no projeto: Back-end, DevOps
 
 
-## Marlon H Sanches (@MarlonHenq)
-
-<img src="https://github.com/MarlonHenq.png" alt="Marlon H Sanches" class="profile_pic">
-
-[Linkedin](https://www.linkedin.com/in/marlonhenq/) |
-[GitHub](https://github.com/MarlonHenq) |
-[Site](https://marlonhenq.dev)
-
-Estudante de Ciência da Computação na UFSCar e desenvolvedor full-stack que acaba fazendo desde design até analise de dados.
-
-### Área no projeto: Tech Lead
-
-
 ## Maykon dos Santos (@sgmaykon)
 <img src="https://github.com/sgmaykon.png" alt="Maykon dos Santos" class="profile_pic">
 
@@ -234,3 +221,18 @@ Sou Vitor Taichi Taira, faço Ciência da Computação 023 na UFSCar e tenho um 
 Sou estudante de Ciência da Computação na UFSCar, tenho um pouco de experiência com Python, SQL e front-end e busco expandir meus conhecimentos em desenvolvimento web.
 
 ### Área no projeto: Back-End, Front-End
+
+# Membros anteriores
+
+## Marlon H Sanches (@MarlonHenq)
+
+<img src="https://github.com/MarlonHenq.png" alt="Marlon H Sanches" class="profile_pic">
+
+[Linkedin](https://www.linkedin.com/in/marlonhenq/) |
+[GitHub](https://github.com/MarlonHenq) |
+[Site](https://marlonhenq.dev)
+
+Estudante de Ciência da Computação na UFSCar e desenvolvedor full-stack que acaba fazendo desde design até analise de dados.
+
+### Área no projeto: Tech Lead
+
