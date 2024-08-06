@@ -33,7 +33,7 @@ Professor Associado no Departamento de Computação da Universidade Federal de S
 <!-- Em ordem alfabética -->
 ## Diogo Conforti Vaz Bellini
 
-<img src="https://media.licdn.com/dms/image/D4D03AQFqTjZDru-2ng/profile-displayphoto-shrink_400_400/0/1683037664462?e=1720051200&v=beta&t=9QP48sHGY2X756VPhsBqIrYgPJDZmc1wwhoTbub5Ols" alt="Diogo Bellini" class="profile_pic">
+<img src="https://github.com/Diogo-Bellini.png" alt="Diogo Bellini" class="profile_pic">
 
 [Linkedin](https://www.linkedin.com/in/diogo-conforti-vaz-bellini-a993b326b/) |
 [GitHub](https://github.com/Diogo-Bellini) 
@@ -152,19 +152,6 @@ Sou Murilo Ramos, estudante de BCC 023, tenho experiência tanto em front-end (R
 ### Área no projeto: Front-end
 
 
-## Nicolas Queiroz Bertozzo
-
-<img src="https://media.licdn.com/dms/image/D4D03AQHTUQotDaGUFg/profile-displayphoto-shrink_400_400/0/1715125722023?e=1720656000&v=beta&t=7B-1yW5eD3LGTs6L1XXNX5XUCxc42l1TjBGCnaJrv-Q" alt="Nicolas Queiroz Bertozzo" class="profile_pic">
-
-[Linkedin](https://br.linkedin.com/in/nqber) |
-[GitHub](https://github.com/n-qber) | 
-[nqber.ddns.net](http://nqber.ddns.net)
-
-Sou estudante de Engenharia da Computação na UFSCar. Busco entender os funcionamentos por trás dos computadores e sou fã de ensinar tudo aquilo que aprendo nessa busca. Tenho um site de transferência de arquivos ilimitados ;)
-
-### Área no projeto: Backend?
-
-
 ## Nicole Ramos
 
 <img src="https://github.com/Ninn-up.png" alt="Nicole Ramos" class="profile_pic">
@@ -236,3 +223,15 @@ Estudante de Ciência da Computação na UFSCar e desenvolvedor full-stack que a
 
 ### Área no projeto: Tech Lead
 
+
+## Nicolas Queiroz Bertozzo
+
+<img src="https://media.licdn.com/dms/image/D4D03AQHTUQotDaGUFg/profile-displayphoto-shrink_400_400/0/1715125722023?e=1720656000&v=beta&t=7B-1yW5eD3LGTs6L1XXNX5XUCxc42l1TjBGCnaJrv-Q" alt="Nicolas Queiroz Bertozzo" class="profile_pic">
+
+[Linkedin](https://br.linkedin.com/in/nqber) |
+[GitHub](https://github.com/n-qber) | 
+[nqber.ddns.net](http://nqber.ddns.net)
+
+Sou estudante de Engenharia da Computação na UFSCar. Busco entender os funcionamentos por trás dos computadores e sou fã de ensinar tudo aquilo que aprendo nessa busca. Tenho um site de transferência de arquivos ilimitados ;)
+
+### Área no projeto: Backend?
