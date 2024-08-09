@@ -165,7 +165,7 @@ Sou estudante de Engenharia da Computação na UFSCar e tenho experiência com d
 
 
 ## Renan Alves Zago
-<img src="https://media.licdn.com/dms/image/D4D03AQFki7mRLtcU5w/profile-displayphoto-shrink_200_200/0/1709342969134?e=1720051200&v=beta&t=j2C_F-aHd-j-kXje3YMvrOqLNx8qPrnDi0sIH5875lM" alt="Renan Zago" class="profile_pic">
+<img src="https://github.com/RenanZago.png" alt="Renan Zago" class="profile_pic">
 
 [Linkedin](https://www.linkedin.com/in/renan-zago/) |
 [GitHub](https://github.com/RenanZago)
@@ -176,7 +176,7 @@ Sou Renan Zago, estudante de Ciência da Computação 023 na UFSCar, tenho exper
 
 
 ## Ronan Pereira
-<img src="https://media.licdn.com/dms/image/D4E03AQFw22wPH4Y0zw/profile-displayphoto-shrink_200_200/0/1713492101718?e=1720051200&v=beta&t=L5Sw4rre_3K_FjVzC8JYArLJjsnrikllYfnsGP7798A" alt="Ronan Pereira" class="profile_pic">
+<img src="https://github.com/ronanpjr.png" alt="Ronan Pereira" class="profile_pic">
 
 [Linkedin](www.linkedin.com/in/ronan-antonio-pereira-junior-92165b2b1) |
 [GitHub](https://github.com/ronanpjr)
@@ -226,7 +226,7 @@ Estudante de Ciência da Computação na UFSCar e desenvolvedor full-stack que a
 
 ## Nicolas Queiroz Bertozzo
 
-<img src="https://media.licdn.com/dms/image/D4D03AQHTUQotDaGUFg/profile-displayphoto-shrink_400_400/0/1715125722023?e=1720656000&v=beta&t=7B-1yW5eD3LGTs6L1XXNX5XUCxc42l1TjBGCnaJrv-Q" alt="Nicolas Queiroz Bertozzo" class="profile_pic">
+<img src="https://github.com/n-qber.png" alt="Nicolas Queiroz Bertozzo" class="profile_pic">
 
 [Linkedin](https://br.linkedin.com/in/nqber) |
 [GitHub](https://github.com/n-qber) | 
