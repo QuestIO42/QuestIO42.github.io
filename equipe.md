@@ -30,6 +30,18 @@ Professor Associado no Departamento de Computação da Universidade Federal de S
 
 ### Área no projeto: Coordenador, DevOps
 
+## Prof. Danilo Augusto Moschetto
+
+<img src="https://github.com/danilo-ifsp.png" alt="Prof. Danilo Augusto Moschetto" class="profile_pic">
+
+[GitHub](https://github.com/danilo-ifsp) 
+
+Possui graduação em Bacharelado em Ciência da Computação pela Universidade Federal de São Carlos (2007), mestrado em Ciência da Computação pela Universidade Federal de São Carlos (2010) e doutorado em Engenharia de Produção pela Universidade Federal de São Carlos (2017). Atualmente é professor EBTT do Instituto Federal de São Paulo. Tem experiência na área de Ciência da Computação, com ênfase em Linguagens de Programação, atuando principalmente nos seguinte temas: Desenvolvimento web, mobile e desempenho. Na área de Engenharia de Produção, atua principalmente na área de estratégia competitiva.
+
+### Área no projeto: Especialista em web, mobile e desempenho
+
+# Estudantes
+
 <!-- Em ordem alfabética -->
 ## Diogo Conforti Vaz Bellini
 
@@ -234,4 +246,4 @@ Estudante de Ciência da Computação na UFSCar e desenvolvedor full-stack que a
 
 Sou estudante de Engenharia da Computação na UFSCar. Busco entender os funcionamentos por trás dos computadores e sou fã de ensinar tudo aquilo que aprendo nessa busca. Tenho um site de transferência de arquivos ilimitados ;)
 
-### Área no projeto: Backend?
+### Área no projeto: Backend
