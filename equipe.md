@@ -175,18 +175,6 @@ Sou estudante de Engenharia da Computação na UFSCar e tenho experiência com d
 
 ### Área no projeto: Design, Front-End
 
-
-## Renan Alves Zago
-<img src="https://github.com/RenanZago.png" alt="Renan Zago" class="profile_pic">
-
-[Linkedin](https://www.linkedin.com/in/renan-zago/) |
-[GitHub](https://github.com/RenanZago)
-
-Sou Renan Zago, estudante de Ciência da Computação 023 na UFSCar, tenho experiência em mobile com Flutter e conhecimento em front-end web. Procurando sempre aprender.
-
-### Área no projeto: Back-End, Front-End
-
-
 ## Ronan Pereira
 <img src="https://github.com/ronanpjr.png" alt="Ronan Pereira" class="profile_pic">
 
@@ -222,6 +210,18 @@ Sou estudante de Ciência da Computação na UFSCar, tenho um pouco de experiên
 ### Área no projeto: Back-End, Front-End
 
 # Membros anteriores
+
+
+## Renan Alves Zago
+<img src="https://github.com/RenanZago.png" alt="Renan Zago" class="profile_pic">
+
+[Linkedin](https://www.linkedin.com/in/renan-zago/) |
+[GitHub](https://github.com/RenanZago)
+
+Sou Renan Zago, estudante de Ciência da Computação 023 na UFSCar, tenho experiência em mobile com Flutter e conhecimento em front-end web. Procurando sempre aprender.
+
+### Área no projeto: Back-End, Front-End
+
 
 ## Marlon H Sanches (@MarlonHenq)
 
