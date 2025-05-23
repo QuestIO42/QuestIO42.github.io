@@ -43,6 +43,68 @@ Possui graduação em Bacharelado em Ciência da Computação pela Universidade 
 # Estudantes
 
 <!-- Em ordem alfabética -->
+## André Luis Zitelli Rettondini
+
+<img src="https://github.com/alrettondini.png" alt="André Rettondini" class="profile_pic">
+
+[Linkedin](https://www.linkedin.com/in/alrettondini/) |
+[GitHub](https://github.com/alrettondini) 
+
+<!-- Adicionar descrição PFV -->
+
+### Área no projeto: Front-end
+
+
+## Enzo Youji Murayama
+
+<img src="https://github.com/enzomurayama.png" alt="Enzo Murayama" class="profile_pic">
+
+[Linkedin](https://www.linkedin.com/in/enzo-youji-murayama/) |
+[GitHub](https://github.com/enzomurayama) 
+
+<!-- Adicionar descrição PFV -->
+
+### Área no projeto: Front-end
+
+
+## João Victor Bueno de Caldas
+
+<img src="https://github.com/jobucaldas.png" alt="João Bueno" class="profile_pic">
+
+[Linkedin](https://www.linkedin.com/in/joaobuenoc/) |
+[GitHub](https://github.com/jobucaldas) |
+[Site](https://www.jobucaldas.com)
+
+Estudante de Ciência da Computação na UFSCar, trabalhei em desenvolvimento fullstack anteriormente
+
+### Área no projeto: Back-end
+
+
+## Lucas de Oliveira Rodrigues Alves
+
+<img src="https://github.com/Lusquiinha.png" alt="Lucas Alves" class="profile_pic">
+
+[Linkedin](https://www.linkedin.com/in/lucas-oliveira-rodrigues-alves-826600272/) |
+[GitHub](https://github.com/Lusquiinha)
+
+<!-- Adicionar descrição PFV -->
+
+### Área no projeto: Back-end
+
+
+## Marcus Vinicius Soares de Oliveira
+
+<img src="https://github.com/HotdogcNutela.png" alt="Marcus Soares" class="profile_pic">
+
+[GitHub](https://github.com/HotdogcNutela)
+
+<!-- Adicionar descrição PFV -->
+
+### Área no projeto: Back-end
+
+
+# Membros anteriores
+
 ## Diogo Conforti Vaz Bellini
 
 <img src="https://github.com/Diogo-Bellini.png" alt="Diogo Bellini" class="profile_pic">
@@ -52,7 +114,7 @@ Possui graduação em Bacharelado em Ciência da Computação pela Universidade 
 
 Sou estudante de Ciência da computação na UFSCar, com conhecimentos em C e C++. No momento estou entrando no mundo Front-end!!
 
-### Área no projeto: Front-end, Desing
+### Área no projeto: Front-end, Design
 
 
 ## Eduardo H Spinelli
@@ -208,9 +270,6 @@ Sou Vitor Taichi Taira, faço Ciência da Computação 023 na UFSCar e tenho um 
 Sou estudante de Ciência da Computação na UFSCar, tenho um pouco de experiência com Python, SQL e front-end e busco expandir meus conhecimentos em desenvolvimento web.
 
 ### Área no projeto: Back-End, Front-End
-
-# Membros anteriores
-
 
 ## Renan Alves Zago
 <img src="https://github.com/RenanZago.png" alt="Renan Zago" class="profile_pic">
