@@ -62,7 +62,7 @@ Possui graduação em Bacharelado em Ciência da Computação pela Universidade 
 [Linkedin](https://www.linkedin.com/in/enzo-youji-murayama/) |
 [GitHub](https://github.com/enzomurayama) 
 
-<!-- Adicionar descrição PFV -->
+Estudante de Ciência da Computação na UFSCar, agora aprendendo sobre docker e segurança. Tenho experiência com desenvolvimento fullstack.
 
 ### Área no projeto: Front-end
 
