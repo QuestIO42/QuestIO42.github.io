@@ -50,6 +50,7 @@ Possui graduação em Bacharelado em Ciência da Computação pela Universidade 
 [Linkedin](https://www.linkedin.com/in/alrettondini/) |
 [GitHub](https://github.com/alrettondini) 
 
+Estudante de Ciência da Computação na UFSCar. Tenho experiência como desenvolvedor Fullstack, com foco em Front-End. Agora aprendendo Desenvolvimento Móvel com Flutter.
 <!-- Adicionar descrição PFV -->
 
 ### Área no projeto: Front-end
