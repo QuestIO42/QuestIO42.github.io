@@ -88,7 +88,7 @@ Estudante de Ciência da Computação na UFSCar, trabalhei em desenvolvimento fu
 [Linkedin](https://www.linkedin.com/in/lucas-oliveira-rodrigues-alves-826600272/) |
 [GitHub](https://github.com/Lusquiinha)
 
-<!-- Adicionar descrição PFV -->
+Estudante de Ciência da Computação na UFSCar. Tenho experiência como desenvolvedor Fullstack, com foco em Back-End.
 
 ### Área no projeto: Back-end
 
