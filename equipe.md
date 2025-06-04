@@ -104,9 +104,9 @@ Estudante de Ciência da Computação na UFSCar, trabalhei em desenvolvimento fu
 ### Área no projeto: Back-end
 
 
-# Membros anteriores
+# Membros anteriores <a name="alumni"></a>
 
-## Diogo Conforti Vaz Bellini
+## Diogo Conforti Vaz Bellini (2024)
 
 <img src="https://github.com/Diogo-Bellini.png" alt="Diogo Bellini" class="profile_pic">
 
@@ -118,7 +118,7 @@ Sou estudante de Ciência da computação na UFSCar, com conhecimentos em C e C+
 ### Área no projeto: Front-end, Design
 
 
-## Eduardo H Spinelli
+## Eduardo H Spinelli (2024)
 
 <img src="https://github.com/Edu-Spinelli.png" alt="img" class="profile_pic">
 
@@ -131,7 +131,7 @@ Sou estudante de Ciência da computação na UFSCar, estudando sobre desenvolvim
 ### Área no projeto: Back-end, Front-end, DevOps
 
 
-## Enzo Hirotani
+## Enzo Hirotani (2024)
 
 <img src="https://github.com/EnzoHirotani.png" alt="Enzo Hirotani" class="profile_pic">
 
@@ -144,7 +144,7 @@ Sou estudante de Ciência da computação na UFSCar 023 e estou estudando desenv
 ### Área no projeto: Back-end, Front-end
 
 
-## Gustavo Gimenes
+## Gustavo Gimenes (2024)
 
 <img src="https://github.com/guugimeness.png" alt="Gustavo Gimenes" class="profile_pic">
 
@@ -157,7 +157,7 @@ Sou estudante da Engenharia de Computação UFSCar 023, estou estudando Python e
 ### Área no projeto: Back-end, DevOps
 
 
-## Gustavo Kim Alcantara
+## Gustavo Kim Alcantara (2024)
 
 <img src = "https://github.com/gus-kim.png" alt ="Gustavo Kim" class= "profile_pic">
 
@@ -169,7 +169,7 @@ Sou Gustavo Kim, estudante de ciências da computação na UFSCar. Tenho conheci
 ### Área no projeto: Back-End
 
 
-## João Paulo Morais Rangel
+## João Paulo Morais Rangel (2024)
 
 <img src="https://github.com/jpmrangel.png" alt="João Paulo Rangel" class="profile_pic">
 
@@ -182,7 +182,7 @@ Sou estudante de Ciência da Computação na UFSCar com experiência em desenvol
 ### Área no projeto: Back-end, Front-end
 
 
-## José Maia de Oliveira (@josemaia.comp)
+## José Maia de Oliveira (@josemaia.comp) (2024)
 
 <img src="https://github.com/decker12w.png" alt="José Maia de Oliveira" class="profile_pic">
 
@@ -195,7 +195,7 @@ Sou estudante de Ciência da Computação na UFSCar e tenho experiência com des
 ### Área no projeto: Back-end, DevOps
 
 
-## Maykon dos Santos (@sgmaykon)
+## Maykon dos Santos (@sgmaykon) (2024)
 <img src="https://github.com/sgmaykon.png" alt="Maykon dos Santos" class="profile_pic">
 
 [GitHub](https://github.com/sgmaykon)
@@ -205,7 +205,8 @@ Sou estudante de Engenharia de Computação na UFSCar, com conhecimentos em C e 
 ### Área no projeto: Front-End | Back-End | Dev-Ops
 
 
-## Melissa Shimada
+## Melissa Shimada (2024)
+
 <img src="https://github.com/MelShimada.png" alt="Melissa Shimada" class="profile_pic">
 
 [Linkedin](https://www.linkedin.com/in/melissa-shimada) |
@@ -216,7 +217,8 @@ Sou Melissa Shimada, estudante de Ciência da Computação na UFSCar e estou est
 ### Área no projeto: Front-end
 
 
-## Murilo Ramos
+## Murilo Ramos (2024)
+
 <img src="https://github.com/MuriEdu.png" alt="Murilo Ramos" class="profile_pic">
 
 [Linkedin](https://www.linkedin.com/in/muriedu) |
@@ -227,7 +229,7 @@ Sou Murilo Ramos, estudante de BCC 023, tenho experiência tanto em front-end (R
 ### Área no projeto: Front-end
 
 
-## Nicole Ramos
+## Nicole Ramos (2024)
 
 <img src="https://github.com/Ninn-up.png" alt="Nicole Ramos" class="profile_pic">
 
@@ -238,7 +240,8 @@ Sou estudante de Engenharia da Computação na UFSCar e tenho experiência com d
 
 ### Área no projeto: Design, Front-End
 
-## Ronan Pereira
+## Ronan Pereira (2024)
+
 <img src="https://github.com/ronanpjr.png" alt="Ronan Pereira" class="profile_pic">
 
 [Linkedin](www.linkedin.com/in/ronan-antonio-pereira-junior-92165b2b1) |
@@ -249,7 +252,7 @@ Sou estudante de Ciência da Computação na UFSCar e tenho experiência com Lin
 ### Área no projeto: DevOps
 
 
-## Vitor Taichi Taira
+## Vitor Taichi Taira (2024)
 
 <img src = "https://github.com/TaiFile.png" alt ="Vitor Taichi Taira" class= "profile_pic">
 
@@ -261,7 +264,7 @@ Sou Vitor Taichi Taira, faço Ciência da Computação 023 na UFSCar e tenho um 
 ### Área no projeto: Back-End, DevOps
 
 
-## Vitória Hilgert Tomasel
+## Vitória Hilgert Tomasel (2024)
 
 <img src = "https://github.com/vitoriahilgert.png" alt ="Vitória Hilgert" class= "profile_pic">
 
@@ -272,7 +275,7 @@ Sou estudante de Ciência da Computação na UFSCar, tenho um pouco de experiên
 
 ### Área no projeto: Back-End, Front-End
 
-## Renan Alves Zago
+## Renan Alves Zago (2024)
 <img src="https://github.com/RenanZago.png" alt="Renan Zago" class="profile_pic">
 
 [Linkedin](https://www.linkedin.com/in/renan-zago/) |
@@ -283,7 +286,7 @@ Sou Renan Zago, estudante de Ciência da Computação 023 na UFSCar, tenho exper
 ### Área no projeto: Back-End, Front-End
 
 
-## Marlon H Sanches (@MarlonHenq)
+## Marlon H Sanches (@MarlonHenq) (2024)
 
 <img src="https://github.com/MarlonHenq.png" alt="Marlon H Sanches" class="profile_pic">
 
@@ -296,7 +299,7 @@ Estudante de Ciência da Computação na UFSCar e desenvolvedor full-stack que a
 ### Área no projeto: Tech Lead
 
 
-## Nicolas Queiroz Bertozzo
+## Nicolas Queiroz Bertozzo (2024)
 
 <img src="https://github.com/n-qber.png" alt="Nicolas Queiroz Bertozzo" class="profile_pic">
 
