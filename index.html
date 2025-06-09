@@ -1,0 +1,65 @@
+    <!DOCTYPE html>
+    <html lang="pt-br">
+    <head>
+        <title>Lab. Remoto de Embarcados - DC/UFSCar</title>
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.3/gh-fork-ribbon.min.css" />
+        <link rel="stylesheet" href="styles.css">
+
+        <script>
+            function changeSrc(loc) {
+                document.getElementById('iframeId').src = loc;
+            }
+
+            function openInNewTab(url) {
+                var win = window.open(url, '_blank');
+                win.focus();
+            }
+        </script>
+    </head>
+    <body>
+        <a class="github-fork-ribbon" href="https://github.com/QuestIO42/vlab" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">
+            Fork me on GitHub
+        </a>
+        <main>
+            <h2 class="subtitle">DC/UFSCar</h2>
+            <h1 class="title">Lab. Remoto de Embarcados</h1>
+
+            <div class="message">
+                <h3> Bem-vindo ao nosso Laboratório! </h3>
+                <p> 
+                    Este espaço foi criado para oferecer suporte ao desenvolvimento de projetos com a plataforma Terasic DE10-Standard (Cyclone V SoC). 
+                    Agora localizado no <strong>Espaço Maker do DC/UFSCar</strong>, o laboratório conta com uma estrutura aprimorada, incluindo iluminação auxiliar para 
+                    uso noturno. 
+                </p>
+            </div>
+
+            <div class="option-container">
+                <button class="option-home" onclick="window.location.href='https://questio42.github.io/'">
+                    <img src="./assets/home.png" alt="QuestIO" class="icon">
+                    Home
+                </button>
+
+                <button class="option-questio" onclick="window.location.href='https://questio.vlab.dc.ufscar.br/'">
+                    <img src="./assets/questio.png" alt="QuestIO" class="icon">
+                    QuestI0
+                </button>
+
+                <button class="option" onclick="window.open('/camera.html', 'camera');">
+                    <img src="./assets/camera.png" alt="Camera" class="icon">
+                    Camera
+                </button>
+
+                <button class="option" onclick="window.location.href='/agenda'">
+                    <img src="./assets/agenda.png" alt="Agenda" class="icon">
+                    Agenda
+                </button>
+
+                <button class="option" onclick="window.location.href='/about'">
+                    <img src="./assets/sobre.png" alt="Sobre" class="icon">
+                    Sobre
+                </button>
+            </div>
+        </main>
+    </body>
+    </html>
