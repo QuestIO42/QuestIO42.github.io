@@ -50,22 +50,32 @@ main {
     justify-content: center;
 }
 
-.subtitle {
-    padding: 12px 16px;
-    background-color: var(--cinzaClaro);
-    box-shadow: var(--box-shadow-default-cinza);
-    border: 1px solid var(--cinza);
-    color: #777;
-    font-size: 24px;
+.logo {
+    margin: 32px 32px 16px 32px;
+    transition: transform 0.3s ease;
+}
+
+.logo:hover {
+    transform: scale(1.05); 
 }
 
 .title {
-    margin: 12px 0px 0px 0px;
+    margin: 0px;
     font-size: 36px;
+    text-align: center;
+}
+
+.destaque {
+    color: #2cd483;
+}
+
+.destaque2 {
+    color: #2ec57c;
 }
 
 .message {
-    width: 55%;
+    width: 80%;
+    max-width: 1220px;
     margin: 36px 0px;
     padding: 24px;
     display: flex;
@@ -73,10 +83,12 @@ main {
     align-items: center;
     justify-content: center;
     background-color: #FCFCFC;
-    border: 1px solid var(--cinzaClaro);
+    box-sizing: border-box;
+    border: 1.5px solid var(--cinzaClaro);
 }
 
 .message h3 {
+    text-align: center;
     margin: 8px 0px;
 }
 
@@ -91,7 +103,6 @@ main {
 }
 
 .option,
-.option-home,
 .option-questio {
     display: flex;
     flex-direction: row;
@@ -113,12 +124,6 @@ main {
     box-shadow: var(--box-shadow-default-roxo-500);
 }
 
-.option-home {
-    color: #6b3605; 
-    background-color: var(--laranja); 
-    box-shadow: var(--box-shadow-default-laranja);
-}
-
 .option-questio {
     color: #2f6e4e; 
     background-color: var(--verde-300); 
@@ -126,7 +131,6 @@ main {
 }
 
 .option:hover,
-.option-home:hover,
 .option-questio:hover {
     transform: scale(1.05);
 }
@@ -136,6 +140,138 @@ main {
     height: 36px;
 }
 
-.github-fork-ribbon:before {
-    background-color: var(--roxo-500);
+.about-container {
+    width: 80%;
+    max-width: 1220px;
+    margin: 56px 0px 36px 0px;
+}
+
+.about-container2 {
+    width: 80%;
+    max-width: 1220px;
+    margin: 0px 0px 36px 0px;
+}
+
+.about-text{
+    color: var(--cinza);
+    padding: 16px 24px;
+    background-color: #FCFCFC;
+    box-sizing: border-box;
+    border: 1px solid var(--cinzaClaro);
+}
+
+.content1 {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+}
+
+.illustration {
+    height: auto;
+    width: 540px; 
+    object-fit: contain;
+}
+
+.equipe-container {
+    width: 80%;
+    max-width: 1220px;
+    margin: 16px 0px 32px 0px;
+}
+
+.title-professor,
+.title-current,
+.title-past {
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    padding: 12px 16px;
+    border: none;
+}
+
+.title-professor {
+    color: #6b3605; 
+    background-color: var(--laranja); 
+    box-shadow: var(--box-shadow-default-laranja);
+}
+
+.title-current {
+    color: #2f6e4e; 
+    background-color: var(--verde-300); 
+    box-shadow: var(--box-shadow-default-verde-900);
+}
+
+.title-past {
+    color: #bab1fc; 
+    background-color: var(--roxo-300); 
+    box-shadow: var(--box-shadow-default-roxo-500);
+}
+
+.people-prof,
+.people-current,
+.people-old {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    gap: 16px;
+    margin-bottom: 24px;
+}
+
+.people-prof-img,
+.people-current-img,
+.people-old-img {
+    height: 156px;
+    width: 156px;
+    object-fit: contain;
+    padding: 10px;
+    color: #777; 
+    background-color: var(--cinzaClaro);
+    box-shadow: var(--box-shadow-default-cinza);
+}
+
+.member-about {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    height: 176px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #f8f8f8;
+    box-shadow: 0 0 0 0px #FFFFFF, 6px 6px #dbdbdb;
+}
+
+.member-about p{
+    margin: 0px;
+}
+
+.member-about-title {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin: 0px 0px 12px 0px;
+}
+
+.member-about-title a{
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+
+.member-about-description {
+    color: var(--cinza);
+    word-wrap: break-word;      
+    overflow-wrap: break-word;  
+    white-space: normal;        
+    overflow-x: hidden;
+}
+
+@media (max-width: 1200px) {
+    .content1 {
+        flex-direction: column;
+        align-items: center;
+    }
 }
