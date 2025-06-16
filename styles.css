@@ -172,6 +172,103 @@ main {
     object-fit: contain;
 }
 
+.equipe-container {
+    width: 80%;
+    max-width: 1220px;
+    margin: 16px 0px 32px 0px;
+}
+
+.title-professor,
+.title-current,
+.title-past {
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    padding: 12px 16px;
+    border: none;
+}
+
+.title-professor {
+    color: #6b3605; 
+    background-color: var(--laranja); 
+    box-shadow: var(--box-shadow-default-laranja);
+}
+
+.title-current {
+    color: #2f6e4e; 
+    background-color: var(--verde-300); 
+    box-shadow: var(--box-shadow-default-verde-900);
+}
+
+.title-past {
+    color: #bab1fc; 
+    background-color: var(--roxo-300); 
+    box-shadow: var(--box-shadow-default-roxo-500);
+}
+
+.people-prof,
+.people-current,
+.people-old {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    gap: 16px;
+    margin-bottom: 24px;
+}
+
+.people-prof-img,
+.people-current-img,
+.people-old-img {
+    height: 156px;
+    width: 156px;
+    object-fit: contain;
+    padding: 10px;
+    color: #777; 
+    background-color: var(--cinzaClaro);
+    box-shadow: var(--box-shadow-default-cinza);
+}
+
+.member-about {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    height: 176px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #f8f8f8;
+    box-shadow: 0 0 0 0px #FFFFFF, 6px 6px #dbdbdb;
+}
+
+.member-about p{
+    margin: 0px;
+}
+
+.member-about-title {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin: 0px 0px 12px 0px;
+}
+
+.member-about-title a{
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+
+.member-about-description {
+    color: var(--cinza);
+    word-wrap: break-word;      
+    overflow-wrap: break-word;  
+    white-space: normal;        
+    overflow-x: hidden;
+}
+
 @media (max-width: 1200px) {
     .content1 {
         flex-direction: column;
