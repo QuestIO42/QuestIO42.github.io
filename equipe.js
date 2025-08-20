@@ -1,19 +1,22 @@
 const equipeAtual = [
   {
-    nome: "André Luis Zitelli Rettondini",
-    cargo: "Front-end",
-    img: "https://github.com/alrettondini.png",
-    github: "https://github.com/alrettondini",
-    linkedin: "https://www.linkedin.com/in/alrettondini/",
-    descricao: "Estudante de Ciência da Computação na UFSCar. Tenho experiência como desenvolvedor Fullstack, com foco em Front-End. Agora aprendendo Desenvolvimento Móvel com Flutter."
-  },
-  {
     nome: "Enzo Youji Murayama",
     cargo: "Front-end",
     img: "https://github.com/enzomurayama.png",
     github: "https://github.com/enzomurayama",
     linkedin: "https://www.linkedin.com/in/enzo-youji-murayama/",
     descricao: "Estudante de Ciência da Computação na UFSCar, agora aprendendo sobre docker e segurança. Tenho experiência com desenvolvimento fullstack."
+  }
+];
+
+const membrosAnteriores = [
+  {
+    nome: "André Luis Zitelli Rettondini",
+    cargo: "Front-end",
+    img: "https://github.com/alrettondini.png",
+    github: "https://github.com/alrettondini",
+    linkedin: "https://www.linkedin.com/in/alrettondini/",
+    descricao: "Estudante de Ciência da Computação na UFSCar. Tenho experiência como desenvolvedor Fullstack, com foco em Front-End. Agora aprendendo Desenvolvimento Móvel com Flutter."
   },
   {
     nome: "João Victor Bueno de Caldas",
@@ -38,10 +41,7 @@ const equipeAtual = [
     github: "https://github.com/HotdogcNutela",
     linkedin: "",
     descricao: ""
-  }
-];
-
-const membrosAnteriores = [
+  },
   {
     nome: "Diogo Conforti Vaz Bellini",
     cargo: "Front-end, Design",
