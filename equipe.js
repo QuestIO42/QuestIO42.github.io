@@ -6,6 +6,14 @@ const equipeAtual = [
     github: "https://github.com/enzomurayama",
     linkedin: "https://www.linkedin.com/in/enzo-youji-murayama/",
     descricao: "Estudante de Ciência da Computação na UFSCar, agora aprendendo sobre docker e segurança. Tenho experiência com desenvolvimento fullstack."
+  },
+  {
+    nome: "Arthur Eugenio Silverio",
+    cargo: "Desenvolvedor",
+    img: "https://github.com/arthunix.png",
+    github: "https://github.com/arthunix",
+    linkedin: "https://www.linkedin.com/in/arthur-silverio-34aaa71b5/",
+    descricao: "Estudante de Engenharia da Computação na UFSCar, já trabalhei como DevOps hoje trabalho como SRE em um cloud provider público. Aqui aprendo sobre risc-v."
   }
 ];
 
