@@ -303,17 +303,26 @@ main {
     overflow-x: hidden;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1300px) {
     .content1 {
         flex-direction: column;
         align-items: center;
+        text-align: center;
     }
 }
 
-/* === Responsividade aprimorada === */
 @media (max-width: 1024px) {
     main {
         padding: 20px 20px;
+    }
+
+    .message,
+    .about-container,
+    .about-container2,
+    .equipe-container,
+    .fotos-equipes {
+        width: 100%;
+        padding: 24px;
     }
 
     .title {
@@ -331,8 +340,7 @@ main {
     }
 
     .illustration {
-        width: 80%;
-        max-width: 400px;
+        max-width: 320px;
     }
 }
 
@@ -341,31 +349,9 @@ main {
         font-size: 32px;
     }
 
-    .message,
-    .about-container,
-    .about-container2,
-    .equipe-container,
-    .fotos-equipes {
-        width: 100%;
-        padding: 24px;
-        margin: 0px;
-    }
-
     .option,
     .option-questio {
         width: 100%;
-    }
-
-    .content1 {
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-    }
-
-    .illustration {
-        order: -1;
-        width: 100%;
-        max-width: 320px;
     }
 
     .people-prof,
@@ -422,10 +408,6 @@ main {
 
     .message p {
         text-align: start;
-    }
-
-    .illustration {
-        max-width: 250px;
     }
 
     .member-about-title {
