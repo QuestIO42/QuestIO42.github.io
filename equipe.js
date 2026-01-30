@@ -1,4 +1,8 @@
 const equipeAtual = [
+
+];
+
+const membrosAnteriores = [
   {
     nome: "Enzo Youji Murayama",
     cargo: "Front-end",
@@ -14,10 +18,7 @@ const equipeAtual = [
     github: "https://github.com/arthunix",
     linkedin: "https://www.linkedin.com/in/arthur-silverio-34aaa71b5/",
     descricao: "Estudante de Engenharia da Computação na UFSCar, já trabalhei como DevOps hoje trabalho como SRE em um cloud provider público. Aqui aprendo sobre risc-v."
-  }
-];
-
-const membrosAnteriores = [
+  },
   {
     nome: "André Luis Zitelli Rettondini",
     cargo: "Front-end",
