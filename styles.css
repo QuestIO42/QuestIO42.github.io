@@ -419,3 +419,7 @@ main {
         text-align: start;
     }
 }
+
+.github-fork-ribbon:before {
+    background-color: var(--roxo-500);
+}
