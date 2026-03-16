@@ -4,6 +4,14 @@ const equipeAtual = [
 
 const membrosAnteriores = [
   {
+    nome: "Carolina da Silva Santos",
+    cargo: "Gerente de Projetos",
+    img: "https://github.com/carolinaasantos.png",
+    github: "https://github.com/carolinaasantos",
+    linkedin: "https://www.linkedin.com/in/carolina-silva-santos/",
+    descricao: "Sou estudante de Engenharia de Computação na UFSCar e tenho interesse em Aprendizado de Máquina, Ciência de Dados, Robótica e Sistemas Inteligentes, com conhecimento em C, C++, JavaScript e Python."
+  },
+  {
     nome: "Enzo Youji Murayama",
     cargo: "Front-end",
     img: "https://github.com/enzomurayama.png",
