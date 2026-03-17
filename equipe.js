@@ -3,21 +3,14 @@ const equipeAtual = [
 ];
 
 const membrosAnteriores = [
+  
   {
-    nome: "Carolina da Silva Santos",
-    cargo: "Gerente de Projetos",
-    img: "https://github.com/carolinaasantos.png",
-    github: "https://github.com/carolinaasantos",
-    linkedin: "https://www.linkedin.com/in/carolina-silva-santos/",
-    descricao: "Sou estudante de Engenharia de Computação na UFSCar e tenho interesse em Aprendizado de Máquina, Ciência de Dados, Robótica e Sistemas Inteligentes, com conhecimento em C, C++, JavaScript e Python."
-  },
-  {
-    nome: "Enzo Youji Murayama",
+    nome: "André Luis Zitelli Rettondini",
     cargo: "Front-end",
-    img: "https://github.com/enzomurayama.png",
-    github: "https://github.com/enzomurayama",
-    linkedin: "https://www.linkedin.com/in/enzo-youji-murayama/",
-    descricao: "Estudante de Ciência da Computação na UFSCar, agora aprendendo sobre docker e segurança. Tenho experiência com desenvolvimento fullstack."
+    img: "https://github.com/alrettondini.png",
+    github: "https://github.com/alrettondini",
+    linkedin: "https://www.linkedin.com/in/alrettondini/",
+    descricao: "Estudante de Ciência da Computação na UFSCar. Tenho experiência como desenvolvedor Fullstack, com foco em Front-End. Agora aprendendo Desenvolvimento Móvel com Flutter."
   },
   {
     nome: "Arthur Eugenio Silverio",
@@ -28,37 +21,13 @@ const membrosAnteriores = [
     descricao: "Estudante de Engenharia da Computação na UFSCar, já trabalhei como DevOps hoje trabalho como SRE em um cloud provider público. Aqui aprendo sobre risc-v."
   },
   {
-    nome: "André Luis Zitelli Rettondini",
-    cargo: "Front-end",
-    img: "https://github.com/alrettondini.png",
-    github: "https://github.com/alrettondini",
-    linkedin: "https://www.linkedin.com/in/alrettondini/",
-    descricao: "Estudante de Ciência da Computação na UFSCar. Tenho experiência como desenvolvedor Fullstack, com foco em Front-End. Agora aprendendo Desenvolvimento Móvel com Flutter."
-  },
-  {
-    nome: "João Victor Bueno de Caldas",
-    cargo: "Back-end",
-    img: "https://github.com/jobucaldas.png",
-    github: "https://github.com/jobucaldas",
-    linkedin: "https://www.linkedin.com/in/joaobuenoc/",
-    descricao: "Estudante de Ciência da Computação na UFSCar, trabalhei em desenvolvimento fullstack anteriormente."
-  },
-  {
-    nome: "Lucas de Oliveira Rodrigues Alves",
-    cargo: "Back-end",
-    img: "https://github.com/Lusquiinha.png",
-    github: "https://github.com/Lusquiinha",
-    linkedin: "https://www.linkedin.com/in/lucas-oliveira-rodrigues-alves-826600272/",
-    descricao: "Estudante de Ciência da Computação na UFSCar. Tenho experiência como desenvolvedor Fullstack, com foco em Back-End."
-  },
-  {
-    nome: "Marcus Vinicius Soares de Oliveira",
-    cargo: "Back-end",
-    img: "https://github.com/HotdogcNutela.png",
-    github: "https://github.com/HotdogcNutela",
-    linkedin: "",
-    descricao: ""
-  },
+    nome: "Carolina da Silva Santos",
+    cargo: "Gerente de Projetos",
+    img: "https://github.com/carolinaasantos.png",
+    github: "https://github.com/carolinaasantos",
+    linkedin: "https://www.linkedin.com/in/carolina-silva-santos/",
+    descricao: "Sou estudante de Engenharia de Computação na UFSCar e tenho interesse em Aprendizado de Máquina, Ciência de Dados, Robótica e Sistemas Inteligentes, com conhecimento em C, C++, JavaScript e Python."
+  },  
   {
     nome: "Diogo Conforti Vaz Bellini",
     cargo: "Front-end, Design",
@@ -82,6 +51,14 @@ const membrosAnteriores = [
     github: "https://github.com/EnzoHirotani",
     linkedin: "https://www.linkedin.com/in/enzo-hirotani-730a74245/",
     descricao: "Sou estudante de Ciência da computação na UFSCar 023 e estou estudando desenvolvimento web, Python e um pouco de Java."
+  },
+  {
+    nome: "Enzo Youji Murayama",
+    cargo: "Front-end",
+    img: "https://github.com/enzomurayama.png",
+    github: "https://github.com/enzomurayama",
+    linkedin: "https://www.linkedin.com/in/enzo-youji-murayama/",
+    descricao: "Estudante de Ciência da Computação na UFSCar, agora aprendendo sobre docker e segurança. Tenho experiência com desenvolvimento fullstack."
   },
   {
     nome: "Gustavo Gimenes",
@@ -108,12 +85,36 @@ const membrosAnteriores = [
     descricao: "Sou estudante de Ciência da Computação na UFSCar com experiência em desenvolvimento web. Tenho conhecimento em C, C++, Java e iniciante em Python."
   },
   {
+    nome: "João Victor Bueno de Caldas",
+    cargo: "Back-end",
+    img: "https://github.com/jobucaldas.png",
+    github: "https://github.com/jobucaldas",
+    linkedin: "https://www.linkedin.com/in/joaobuenoc/",
+    descricao: "Estudante de Ciência da Computação na UFSCar, trabalhei em desenvolvimento fullstack anteriormente."
+  },
+  {
     nome: "José Maia de Oliveira",
     cargo: "Back-end, DevOps",
     img: "https://github.com/decker12w.png",
     github: "https://github.com/decker12w",
     linkedin: "https://www.linkedin.com/in/jos%C3%A9-maia-1b28711b4/",
     descricao: "Tenho experiência com desenvolvimento web. No front-end, trabalho com React e Next.js. No back-end, utilizo Node.js e Spring Boot. Também possuo conhecimentos básicos em DevOps."
+  },
+  {
+    nome: "Lucas de Oliveira Rodrigues Alves",
+    cargo: "Back-end",
+    img: "https://github.com/Lusquiinha.png",
+    github: "https://github.com/Lusquiinha",
+    linkedin: "https://www.linkedin.com/in/lucas-oliveira-rodrigues-alves-826600272/",
+    descricao: "Estudante de Ciência da Computação na UFSCar. Tenho experiência como desenvolvedor Fullstack, com foco em Back-End."
+  },
+  {
+    nome: "Marcus Vinicius Soares de Oliveira",
+    cargo: "Back-end",
+    img: "https://github.com/HotdogcNutela.png",
+    github: "https://github.com/HotdogcNutela",
+    linkedin: "",
+    descricao: ""
   },
   {
     nome: "Marlon H Sanches",
